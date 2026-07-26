@@ -10,7 +10,6 @@ let myAge = 20;
 // Display the user's age in the console.
 console.log("Age: ", myAge);
 // Store whether the user is a student in a variable.
-// 'let' is used because the value can be changed later if needed.
 let isStudent = true;
 // Display whether the user is a student in the console.
 console.log("Is Student: ", isStudent);
