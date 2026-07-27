@@ -1,0 +1,12 @@
+let num1 = 10;
+let num2 = 5;
+const sum = num1 + num2;
+console.log("Sum: ", sum);
+const product = num1 * num2;
+console.log("Product: ", product);
+const modulus = num1 % num2;
+console.log("Modulus: ", modulus);
+console.log("Is Equal: ", num1 === num2);
+console.log("Is Greater: ", num1 > num2);
+console.log("Both True: ", num1 > 5 && num2 < 10);
+console.log("Either True: ", num1 > 10 || num2 === 5);
